@@ -12,7 +12,7 @@
   
 - ejercicio2.py
   ```
-  voclaes = ['a', 'e','i','o','u']
+  vocales = ['a', 'e','i','o','u']
   for c =='b':
        break
   
